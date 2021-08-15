@@ -1,0 +1,15 @@
+.home__section1 {
+    display: flex;
+    padding: 30px;
+    flex: auto;
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.home__section2 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px; 
+    flex-basis: 30%;
+    justify-content: center;
+}
